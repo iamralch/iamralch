@@ -1,2 +1,2 @@
 # whoami
-Who am I? Curriculum Vitae of Svett Ralchev
+Who am I? Curriculum Vitae of Svetlin Ralchev
