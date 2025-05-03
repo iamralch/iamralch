@@ -1,7 +1,7 @@
 # whoami
 Who am I? Check my open source work.
 
-# open source project
+# open source projects
 - https://github.com/ralch
 - https://github.com/phogolabs
 - https://github.com/pgx-contrib
