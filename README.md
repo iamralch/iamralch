@@ -28,4 +28,5 @@ you're in the right place.
 - https://github.com/nvim-contrib
 - https://github.com/tmux-contrib
 - https://github.com/protoc-contrib
+- https://github.com/claude-contrib
 - https://github.com/gh-extensions
