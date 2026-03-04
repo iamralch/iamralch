@@ -18,19 +18,14 @@ about mentoring, driving innovation, and connecting technology with people in
 meaningful ways. If you're here looking for code, ideas, or collaboration,
 you're in the right place.
 
-## currently
-
-<!-- coming soon -->
-
 # open source projects
 
-- [gh-extensions](https://github.com/gh-extensions) — A collection of community-driven extensions that enhance and expand the GitHub CLI
-- [tmux-contrib](https://github.com/tmux-contrib) — A collection of community-driven plugins that enhance and expand tmux
-- [claude-contrib](https://github.com/claude-contrib) — A collection of community-driven extensions and tools for Claude AI
-- [ralch](https://github.com/ralch) — <!-- will be updated -->
-- [phogolabs](https://github.com/phogolabs) — <!-- will be updated -->
-- [zsh-contrib](https://github.com/zsh-contrib) — <!-- will be updated -->
-- [aws-contrib](https://github.com/aws-contrib) — <!-- will be updated -->
-- [pgx-contrib](https://github.com/pgx-contrib) — <!-- will be updated -->
-- [nvim-contrib](https://github.com/nvim-contrib) — <!-- will be updated -->
-- [protoc-contrib](https://github.com/protoc-contrib) — <!-- will be updated -->
+- https://github.com/ralch
+- https://github.com/phogolabs
+- https://github.com/zsh-contrib
+- https://github.com/aws-contrib
+- https://github.com/pgx-contrib
+- https://github.com/nvim-contrib
+- https://github.com/tmux-contrib
+- https://github.com/protoc-contrib
+- https://github.com/gh-extensions
