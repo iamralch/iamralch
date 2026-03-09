@@ -29,3 +29,4 @@ you're in the right place.
 - https://github.com/claude-contrib
 - https://github.com/gh-extensions
 - https://github.com/git-extensions
+- https://github.com/devcontainers-features
