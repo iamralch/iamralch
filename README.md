@@ -1,5 +1,3 @@
-**Svetlin Ralchev**
-
 # whoami
 
 Over the years, I've led engineering teams, scaled products, and helped shape
@@ -30,3 +28,4 @@ you're in the right place.
 - https://github.com/protoc-contrib
 - https://github.com/claude-contrib
 - https://github.com/gh-extensions
+- https://github.com/git-extensions
