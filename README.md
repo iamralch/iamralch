@@ -16,17 +16,20 @@ about mentoring, driving innovation, and connecting technology with people in
 meaningful ways. If you're here looking for code, ideas, or collaboration,
 you're in the right place.
 
-# open source projects
+## open & closed source projects
 
 - https://github.com/ralch
-- https://github.com/phogolabs
+- https://github.com/pgx-contrib
 - https://github.com/zsh-contrib
 - https://github.com/aws-contrib
-- https://github.com/pgx-contrib
 - https://github.com/nvim-contrib
 - https://github.com/tmux-contrib
-- https://github.com/protoc-contrib
-- https://github.com/claude-contrib
 - https://github.com/gh-extensions
 - https://github.com/git-extensions
-- https://github.com/devcontainers-features
+- https://github.com/claude-contrib
+- https://github.com/devcontainer-env
+
+## unmaintained projects
+
+- https://github.com/phogolabs
+- https://github.com/protoc-contrib
