@@ -1,22 +1,19 @@
-# whoami
+# Svetlin Ralchev
 
-Over the years, I've led engineering teams, scaled products, and helped shape
-strategies that bridge technology with business goals. My work sits at the
-intersection of vision and execution, where innovation meets delivery.
+Led engineering teams and shipped software at scale across healthcare,
+fintech, sports technology, and cloud platforms. Focused on building great
+software and the people who build it. For how I think about this work, see
+[my about page](https://iamralch.github.io/about).
 
-My journey spans healthcare, fintech, sports technology, logistics, cloud
-platforms, and developer tools. These diverse experiences have sharpened my
-ability to see patterns across industries, anticipate challenges, and deliver
-solutions that not only work at scale but also stand the test of time. Whether
-building from the ground up or steering established teams, I focus on clarity,
-adaptability, and long-term value.
+## Experience
 
-At heart, I believe in creating products and cultures that last. I'm passionate
-about mentoring, driving innovation, and connecting technology with people in
-meaningful ways. If you're here looking for code, ideas, or collaboration,
-you're in the right place.
+- **Engineering Leadership**: Led 12 engineers on the [RabbitMQ](https://www.rabbitmq.com/) SysEng team at Pivotal
+- **Cloud Platforms**: Worked on CloudFoundry PaaS and their [OCI](https://opencontainers.org/) implemntation at Pivotal
+- **Developer Tools**: Shipped [dev tools](https://www.telerik.com/products/winforms/documentation/introduction) at Telerik, impacting millions of developers
+- **Industries**: Healthcare, fintech, sports tech, logistics, cloud platforms, developer tools
+- **Mindset**: Outcomes-focused. Clear thinking + pristine code.
 
-## open & closed source projects
+## Open & Closed Source
 
 - https://github.com/ralch
 - https://github.com/pgx-contrib
@@ -29,7 +26,7 @@ you're in the right place.
 - https://github.com/claude-contrib
 - https://github.com/devcontainer-env
 
-## unmaintained projects
+## Unmaintained
 
 - https://github.com/phogolabs
 - https://github.com/protoc-contrib
