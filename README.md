@@ -1,9 +1,9 @@
 # Svetlin Ralchev
 
 Led engineering teams and shipped software at scale across healthcare,
-fintech, sports technology, and cloud platforms. Focused on building great
-software and the people who build it. For how I think about this work, see
-[my about page](https://iamralch.github.io/about).
+fintech, sports technology, dev tools and cloud platforms. Focused on building
+great software and the people who build it. For how I think about this work,
+see [my about page](https://ralch.com/about).
 
 ## Experience
 
