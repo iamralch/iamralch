@@ -8,7 +8,7 @@ see [my about page](https://ralch.com/about).
 ## Experience
 
 - **Engineering Leadership**: Led 12 engineers on the [RabbitMQ](https://www.rabbitmq.com/) SysEng team at Pivotal
-- **Cloud Platforms**: Worked on CloudFoundry PaaS and their [OCI](https://opencontainers.org/) implemntation at Pivotal
+- **Cloud Platforms**: Worked on [CloudFoundry](https://www.cloudfoundry.org/) PaaS and their [OCI](https://opencontainers.org/) implemntation at Pivotal
 - **Developer Tools**: Shipped [dev tools](https://www.telerik.com/products/winforms/documentation/introduction) at Telerik, impacting millions of developers
 - **Industries**: Healthcare, fintech, sports tech, logistics, cloud platforms, developer tools
 - **Mindset**: Outcomes-focused. Clear thinking + pristine code.
