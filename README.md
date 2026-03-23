@@ -1,19 +1,19 @@
-# Svetlin Ralchev
+# iamralch
 
-Led engineering teams and shipped software at scale across healthcare,
-fintech, sports technology, dev tools and cloud platforms. Focused on building
-great software and the people who build it. For how I think about this work,
-see [my about page](https://ralch.com/about).
+> Engineering leader — cloud platforms, developer tools, distributed systems.
 
-## Experience
+[![Go](https://img.shields.io/badge/Go-blue?logo=go)](https://go.dev)
+[![Nix](https://img.shields.io/badge/Nix-5277C3?logo=nixos)](https://nixos.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
 
-- **Engineering Leadership**: Led 12 engineers on the [RabbitMQ](https://www.rabbitmq.com/) SysEng team at Pivotal
-- **Cloud Platforms**: Worked on [CloudFoundry](https://www.cloudfoundry.org/) PaaS and their [OCI](https://opencontainers.org/) implementation at Pivotal
-- **Developer Tools**: Shipped [dev tools](https://www.telerik.com/products/winforms/documentation/introduction) at Telerik, impacting millions of developers
-- **Industries**: Healthcare, fintech, sports tech, logistics, cloud platforms, developer tools
-- **Mindset**: Outcomes-focused. Clear thinking + pristine code.
+## About
 
-## Open & Closed Source
+Led engineering teams and shipped software at scale across healthcare, fintech, sports technology,
+developer tools, and cloud platforms. Focused on building great software and the people who build it.
+
+See [ralch.com/about](https://ralch.com/about) for how I think about this work.
+
+## Orgs
 
 - https://github.com/ralch
 - https://github.com/pgx-contrib
@@ -25,8 +25,3 @@ see [my about page](https://ralch.com/about).
 - https://github.com/git-extensions
 - https://github.com/claude-contrib
 - https://github.com/devcontainer-env
-
-## Unmaintained
-
-- https://github.com/phogolabs
-- https://github.com/protoc-contrib
