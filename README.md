@@ -22,6 +22,7 @@ see [my about page](https://ralch.com/about).
 - https://github.com/aws-contrib
 - https://github.com/sqlc-contrib
 - https://github.com/ogen-contrib
+- https://github.com/protoc-contrib
 - https://github.com/nvim-contrib
 - https://github.com/tmux-contrib
 - https://github.com/gh-extensions
