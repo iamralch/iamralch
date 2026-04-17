@@ -18,11 +18,11 @@ see [my about page](https://ralch.com/about).
 - https://github.com/ralch
 - https://github.com/go-foundry
 - https://github.com/pgx-contrib
-- https://github.com/zsh-contrib
 - https://github.com/aws-contrib
 - https://github.com/sqlc-contrib
 - https://github.com/ogen-contrib
 - https://github.com/protoc-contrib
+- https://github.com/zsh-contrib
 - https://github.com/nvim-contrib
 - https://github.com/tmux-contrib
 - https://github.com/gh-extensions
@@ -33,4 +33,3 @@ see [my about page](https://ralch.com/about).
 ## Unmaintained
 
 - https://github.com/phogolabs
-- https://github.com/protoc-contrib
