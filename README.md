@@ -15,6 +15,8 @@ see [my about page](https://ralch.com/about).
 
 ## Open & Closed Source
 
+### Libraries & SDKs
+
 - https://github.com/ralch
 - https://github.com/go-foundry
 - https://github.com/pgx-contrib
@@ -22,6 +24,9 @@ see [my about page](https://ralch.com/about).
 - https://github.com/sqlc-contrib
 - https://github.com/ogen-contrib
 - https://github.com/protoc-contrib
+
+### Developer Productivity
+
 - https://github.com/zsh-contrib
 - https://github.com/nvim-contrib
 - https://github.com/tmux-contrib
@@ -30,6 +35,6 @@ see [my about page](https://ralch.com/about).
 - https://github.com/claude-contrib
 - https://github.com/devcontainer-env
 
-## Unmaintained
+### Unmaintained
 
 - https://github.com/phogolabs
