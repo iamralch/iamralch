@@ -17,7 +17,6 @@ see [my about page](https://ralch.com/about).
 
 ### Libraries & SDKs
 
-- https://github.com/ralch
 - https://github.com/go-foundry
 - https://github.com/pgx-contrib
 - https://github.com/aws-contrib
