@@ -21,6 +21,7 @@ see [my about page](https://ralch.com/about).
 - https://github.com/pgx-contrib
 - https://github.com/aws-contrib
 - https://github.com/sqlc-contrib
+- https://github.com/sqlx-contrib
 - https://github.com/ogen-contrib
 - https://github.com/protoc-contrib
 
