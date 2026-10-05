@@ -31,6 +31,7 @@ see [my about page](https://ralch.com/about).
 - https://github.com/zsh-contrib
 - https://github.com/nvim-contrib
 - https://github.com/tmux-contrib
+- https://github.com/nixos-contrib
 - https://github.com/gh-extensions
 - https://github.com/git-extensions
 - https://github.com/claude-contrib
