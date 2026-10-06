@@ -35,6 +35,7 @@ see [my about page](https://ralch.com/about).
 - https://github.com/nixos-contrib
 - https://github.com/gh-extensions
 - https://github.com/git-extensions
+- https://github.com/keysafe-dev
 - https://github.com/claude-contrib
 - https://github.com/devcontainer-env
 
