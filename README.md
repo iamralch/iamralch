@@ -28,7 +28,7 @@ see [my about page](https://ralch.com/about).
 ### Developer Productivity
 
 - https://github.com/cf-contrib
-- https://github.com/tofu-contrib
+- https://github.com/tf-contrib
 - https://github.com/zsh-contrib
 - https://github.com/nvim-contrib
 - https://github.com/tmux-contrib
