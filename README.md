@@ -15,6 +15,8 @@ see [my about page](https://ralch.com/about).
 
 ## Open & Closed Source
 
+Maintaining 134 repositories across 25 organizations.
+
 ### Libraries & SDKs
 
 - https://github.com/go-foundry
