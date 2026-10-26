@@ -36,6 +36,7 @@ Maintaining 134 repositories across 25 organizations.
 - https://github.com/nvim-contrib
 - https://github.com/tmux-contrib
 - https://github.com/nixos-contrib
+- https://github.com/direnv-contrib
 - https://github.com/gh-extensions
 - https://github.com/git-extensions
 - https://github.com/claude-contrib
