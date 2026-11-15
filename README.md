@@ -31,8 +31,8 @@ Maintaining 134 repositories across 25 organizations.
 
 - https://github.com/tf-contrib
 - https://github.com/cf-contrib
-- https://github.com/keysafe-dev
 - https://github.com/zsh-contrib
+- https://github.com/yazi-contrib
 - https://github.com/nvim-contrib
 - https://github.com/tmux-contrib
 - https://github.com/nixos-contrib
