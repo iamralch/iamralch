@@ -40,6 +40,7 @@ Maintaining 134 repositories across 25 organizations.
 - https://github.com/gh-extensions
 - https://github.com/git-extensions
 - https://github.com/claude-contrib
+- https://github.com/spec-kit-contrib
 - https://github.com/devcontainer-env
 
 ### Unmaintained
